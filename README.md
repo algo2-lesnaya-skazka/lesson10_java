@@ -1,5 +1,5 @@
 # Java часть
-<h3>Повторение темы: Циклы/h3><br>
+<h3>Повторение темы: Циклы</h3><br>
 http://study-java.ru/uroki-java/java-operatory-tsikla-for-while-do-while-operator-break/
   
 Задачи<br>
